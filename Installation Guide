@@ -1,0 +1,13 @@
+## Installation Guidelines
+**Welcome to the Employee record management application.** This document will walk you through the application user interface, assuming you have already installed the software following the instructions as described in the Installation Guide.
+1. **Install python3**
+    
+        apt-get install python3
+        
+2. **Install tkinter**
+
+    If you are using a MaC OS or Windows, you can skip this step as tkinter is pre-installed along with python. Linux Users may follow the [Installation Guidelines](https://altanalyze.readthedocs.io/en/latest/StandAloneDependencies/#:~:text=Install%20Tkinter%3A%20apt%2Dget%20install,apt%2Dget%20install%20python%2Dmatplotlib).
+
+3. **Run Tool** 
+        
+        python3 app.py
