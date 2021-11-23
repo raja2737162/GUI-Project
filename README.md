@@ -1,1 +1,2 @@
-# Project
+# Employee record managemnt system Through GUI
+GUI is a Graphical Interface that is a visual representation of communication presented to the user for easy interaction with the machine. GUI means Graphical User Interface. It is the common user Interface that includes Graphical representation like buttons and icons, and communication can be performed by interacting with these icons rather than the usual text-based or command-based communication.
